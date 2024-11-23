@@ -75,4 +75,3 @@ Is the list empty? false
 - Updated the **"Features"** section to include the new methods such as `remove`, `removeAtBeginning`, `removeAtEnd`, `reverse`, `size`, and `isEmpty`.
 - Adjusted **"Time Complexity"** to reflect the time complexities of the new methods.
 - Added example output with new functionalities.
-- **"LinkedList Interview Questions"** section remains the same, but can now be more relevant with the added functionality. 
