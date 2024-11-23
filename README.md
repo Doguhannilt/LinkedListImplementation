@@ -1,6 +1,4 @@
-Sure! Here's the updated `README.md` reflecting the extended functionality and changes to your `LinkedList` class:
 
-```markdown
 # LinkedList Implementation in Java
 
 This project contains a comprehensive implementation of a singly linked list in Java. It includes a variety of operations such as adding nodes at the beginning or end, removing nodes, printing the list, searching for a specific value, reversing the list, and checking the list's properties.
@@ -78,5 +76,3 @@ Is the list empty? false
 - Adjusted **"Time Complexity"** to reflect the time complexities of the new methods.
 - Added example output with new functionalities.
 - **"LinkedList Interview Questions"** section remains the same, but can now be more relevant with the added functionality. 
-
-This `README.md` is now a comprehensive guide for your LinkedList project, making it clearer and more informative for anyone who uses or contributes to the project.
